@@ -6,6 +6,8 @@ A Power BI project analysing the sales performance of Decathlon's Indian divisio
 
 ![Decathlon Sales Dashboard](DashboardImage/Dashbaord_Page1.png)
 
+![Decathlon Sales Dashboard](DashboardImage/Dashbaord_Page2.png)
+
 ## Project Overview
 
 This project turns raw sales, product and store data into an interactive Power BI dashboard. The goal is to help understand how sales are performing and to support better business decisions.
